@@ -6,4 +6,4 @@ I created two models that I trained on different datasets. Version 1 is trained 
 
 Version 1's Generated Shoe Designs After 100 Epochs:
 
-![Version 1](epoch99v1.png)
+![](https://github.com/JerryWei03/ShoeGAN/blob/master/epoch99v1.jpg)
