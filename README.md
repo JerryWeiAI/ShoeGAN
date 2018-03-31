@@ -7,3 +7,7 @@ I created two models that I trained on different datasets. Version 1 is trained 
 Version 1's Generated Shoe Designs After 100 Epochs:
 
 ![](https://github.com/JerryWei03/ShoeGAN/blob/master/epoch99v1.jpg)
+
+Version 2's Generated Shoe Designs After 500 Epochs:
+
+![](https://github.com/JerryWei03/ShoeGAN/blob/master/epoch500v2.jpg)
